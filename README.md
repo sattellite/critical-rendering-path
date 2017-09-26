@@ -1,4 +1,4 @@
-Repository - https://github.com/sattellite/critical-rendering-path/
+Repository - https://github.com/sattellite/critical-rendering-path/tree/gh-pages
 
 Page with content - https://sattellite.github.io/critical-rendering-path/
 
